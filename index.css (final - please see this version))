@@ -1,0 +1,50 @@
+h1 {
+  font-size: 50px;
+  width: 200px;
+  color: #5a5f5ac1;
+}
+
+button {
+  background-color: rgb(182, 252, 86);
+  border-color: #6868ea;
+  padding: 20px;
+  border-style: dashed;
+  color: #6868ea;
+  font-style: oblique;
+}
+
+s {
+  color: rgb(248, 97, 114);
+}
+
+main {
+  margin: 70px 150px 70px 150px;
+}
+
+p {
+  font-family: "Helvetica", sans-serif;
+  color: #5a5f5ac1;
+  margin: 30px 0px 30px 0px;
+
+  color: rgb(104, 104, 234);
+  size: 100px;
+}
+
+.description {
+  padding-bottom: 25px;
+  color: #5a5f5ac1;
+  width: 200px;
+}
+
+h2 {
+  font-size: 30px;
+  color: rgb(104, 104, 234);
+}
+
+article {
+  background-color: rgb(226, 228, 206);
+  padding: 30px 30px 50px 30px;
+  width: 200px;
+  margin: 55px 0px 55px 0px;
+  border-radius: 40px;
+}
